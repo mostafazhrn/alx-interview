@@ -1,0 +1,1 @@
+this is a readmefile for the task 0x00-pascal_trianglefor the alx software negnieering program short specialization which consists of one task
