@@ -1,0 +1,1 @@
+this is a readme file for the task 0x02 minimum operations for the alx software engneering program (backend short specialization) which consists of 1 task as follows
