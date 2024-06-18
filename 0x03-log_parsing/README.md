@@ -1,0 +1,1 @@
+this is a readme file for the task 0x03-log_parsing for the alx software engnerring program which consists of 1 mandatroy task
