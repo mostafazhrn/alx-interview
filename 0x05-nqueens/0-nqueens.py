@@ -3,7 +3,7 @@
 import sys
 
 
-def resoudre(rw , col):
+def resoudre(rw, col):
     """ This instance shall solve the N queens problem"""
     re_resoudre = [[]]
     for queen in range(rw):
@@ -20,13 +20,14 @@ def q_plc(queen, col, prob_resoudre):
                 reso_queen.append(arr + [i])
     return reso_queen
 
+
 def is_right(queen, i, arr):
     """ This instance shall solve the N queens problem"""
     if i in arr:
         return False
     else:
         return all(abs(arr[col] - i) != queen - col for col in range(queen))
-    
+
 
 def main():
     """ this instance shall start the N queens solving"""
@@ -42,6 +43,7 @@ def main():
         print("N must be at least 4")
         sys.exit(1)
     return the_q
+
 
 def n_queens():
     """ This instance shall solve the N queens problem"""
