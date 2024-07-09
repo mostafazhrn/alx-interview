@@ -1,0 +1,1 @@
+this is a readme file for the task 0x06-starwars_api for the alx software engeering program which consists of 1 mandatory task
