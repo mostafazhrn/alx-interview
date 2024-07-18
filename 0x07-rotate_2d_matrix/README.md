@@ -1,0 +1,1 @@
+this is a readme file for the task 0x07-rotate_2d_matrix for the alx osftware engeneering program which consists if one madatory task as follows
