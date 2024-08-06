@@ -1,0 +1,1 @@
+this is a readme file for the task 0x0A-primegame for the alx software negeering program which consists of 1 manadatory task
